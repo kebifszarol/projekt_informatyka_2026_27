@@ -1,2 +1,3 @@
-Autor: Karol Fibek, 208939
+Autor: Karol Fibek
+numer albumu: 208939
 Laboratorium informatyki 2026/27
